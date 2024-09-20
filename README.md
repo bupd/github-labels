@@ -114,7 +114,7 @@ Ensure that the `labels.json` file is properly formatted and contains valid labe
 ## Resources
 
 - [git-label-cli Documentation](https://github.com/jasonbellamy/git-label-cli)
-- [GitHub Labels API](https://docs.github.com/en/rest/reference/issues#labels)
+- [GitHub Labels API](https://docs.github.com/en/rest/issues/labels)
 
 ## Contributing
 
